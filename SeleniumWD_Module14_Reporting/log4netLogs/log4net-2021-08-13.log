@@ -1,0 +1,57 @@
+2021-08-13 10:21:07,972 DEBUG SeleniumWebDriver.TestDeleteFolder - Going to Yandex Home Page
+2021-08-13 10:21:08,330 INFO  SeleniumWebDriver.TestDeleteFolder - Clicking on Compose Link
+2021-08-13 10:21:08,477 INFO  SeleniumWebDriver.TestDeleteFolder - Switching to Mail Page Window
+2021-08-13 10:21:12,354 INFO  SeleniumWebDriver.TestDeleteFolder - Composing Email with Random Content
+2021-08-13 10:21:13,116 INFO  SeleniumWebDriver.TestDeleteFolder - Escaping the pop-up Window
+2021-08-13 10:21:13,172 INFO  SeleniumWebDriver.TestDeleteFolder - Clicking on Draft Link
+2021-08-13 10:21:13,807 INFO  SeleniumWebDriver.TestDeleteFolder - Selecting Email by Number
+2021-08-13 10:21:14,060 INFO  SeleniumWebDriver.TestDeleteFolder - Clicking on Delete button
+2021-08-13 10:21:14,294 INFO  SeleniumWebDriver.TestDeleteFolder - Compose Email with Random Content
+2021-08-13 10:21:15,223 ERROR SeleniumWebDriver.TestDeleteFolder - Test failed. Screenshot saved at: C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Screenshots\DeleteFolder_12.08.2021_17.32.15.jpeg
+2021-08-13 10:21:15,224 INFO  SeleniumWebDriver.TestDeleteFolder - Executing TestReport: C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\ReportUnit.exe
+2021-08-13 10:25:21,807 DEBUG SeleniumWebDriver.TestDraftFolder - Going to Yandex Home Page
+2021-08-13 10:25:21,838 INFO  SeleniumWebDriver.TestDraftFolder - Clicking on Compose Link
+2021-08-13 10:25:21,899 INFO  SeleniumWebDriver.TestDraftFolder - Switching to Mail Page Window
+2021-08-13 10:25:24,854 INFO  SeleniumWebDriver.TestDraftFolder - Composing Email with Random Content
+2021-08-13 10:25:25,669 INFO  SeleniumWebDriver.TestDraftFolder - Escaping the pop-up Window
+2021-08-13 10:25:25,707 INFO  SeleniumWebDriver.TestDraftFolder - Waiting until Resend Link is visible
+2021-08-13 10:25:26,843 INFO  SeleniumWebDriver.TestDraftFolder - Clicking on Draft Link
+2021-08-13 10:25:27,089 INFO  SeleniumWebDriver.TestDraftFolder - Executing TestReport: C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\ReportUnit.exe
+2021-08-13 10:32:35,807 DEBUG SeleniumWebDriver.TestLogin - Going to Yandex Home Page
+2021-08-13 10:32:35,975 INFO  SeleniumWebDriver.TestLogin - Getting text from Compose Link
+2021-08-13 10:32:36,043 INFO  SeleniumWebDriver.TestLogin - Executing TestReport: C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\ReportUnit.exe
+2021-08-13 10:35:09,440 DEBUG SeleniumWebDriver.TestReceiveFolder - Going to Yandex Home Page
+2021-08-13 10:35:09,470 INFO  SeleniumWebDriver.TestReceiveFolder - Clicking on Compose Link
+2021-08-13 10:35:10,059 INFO  SeleniumWebDriver.TestReceiveFolder - Switching to Mail Page Window
+2021-08-13 10:35:12,106 INFO  SeleniumWebDriver.TestReceiveFolder - Composing Email with Random Content
+2021-08-13 10:35:13,104 INFO  SeleniumWebDriver.TestReceiveFolder - Escaping the pop-up Window
+2021-08-13 10:35:13,153 INFO  SeleniumWebDriver.TestReceiveFolder - Clicking on Draft Link
+2021-08-13 10:35:13,842 INFO  SeleniumWebDriver.TestReceiveFolder - Clicking on Recipient Field
+2021-08-13 10:35:14,090 INFO  SeleniumWebDriver.TestReceiveFolder - Clicking on Send Button
+2021-08-13 10:35:14,320 INFO  SeleniumWebDriver.TestReceiveFolder - Escaping the pop-up Window
+2021-08-13 10:35:16,005 INFO  SeleniumWebDriver.TestReceiveFolder - Clicking on Inbox folder
+2021-08-13 10:35:17,158 INFO  SeleniumWebDriver.TestReceiveFolder - Refreshing the page
+2021-08-13 10:35:18,091 INFO  SeleniumWebDriver.TestReceiveFolder - Executing TestReport: C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\ReportUnit.exe
+2021-08-13 10:36:09,443 DEBUG SeleniumWebDriver.TestSendEmail - Going to Yandex Home Page
+2021-08-13 10:36:09,479 INFO  SeleniumWebDriver.TestSendEmail - Clicking on Compose Link
+2021-08-13 10:36:10,059 INFO  SeleniumWebDriver.TestSendEmail - Switching to Mail Page Window
+2021-08-13 10:36:12,110 INFO  SeleniumWebDriver.TestSendEmail - Composing Email with Random Content
+2021-08-13 10:36:13,183 INFO  SeleniumWebDriver.TestSendEmail - Escaping the pop-up Window
+2021-08-13 10:36:13,157 INFO  SeleniumWebDriver.TestSendEmail - Clicking on Draft Link
+2021-08-13 10:36:13,096 INFO  SeleniumWebDriver.TestSendEmail - Counting the actual number of Emails in Draft folder
+2021-08-13 10:36:14,536 INFO  SeleniumWebDriver.TestSendEmail - Clicking on Recipient Field
+2021-08-13 10:36:14,785 INFO  SeleniumWebDriver.TestSendEmail - Clicking on Send button
+2021-08-13 10:36:16,613 INFO  SeleniumWebDriver.TestSendEmail - Escaping the pop-up Window
+2021-08-13 10:36:17,453 INFO  SeleniumWebDriver.TestSendEmail - Refreshing the page
+2021-08-13 10:36:18,019 INFO  SeleniumWebDriver.TestSendEmail - Executing TestReport: C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\ReportUnit.exe
+2021-08-13 10:37:12,765 DEBUG SeleniumWebDriver.TestSendFolder - Going to Yandex Home Page
+2021-08-13 10:37:12,974 INFO  SeleniumWebDriver.TestSendFolder - Clicking on Compose Link
+2021-08-13 10:37:13,950 INFO  SeleniumWebDriver.TestSendFolder - Switching to Mail Page Window
+2021-08-13 10:37:13,011 INFO  SeleniumWebDriver.TestSendFolder - Composing Email with Random Content
+2021-08-13 10:37:14,381 INFO  SeleniumWebDriver.TestSendFolder - Escaping the pop-up Window
+2021-08-13 10:37:14,751 INFO  SeleniumWebDriver.TestSendFolder - Clicking on Draft Link
+2021-08-13 10:37:15,635 INFO  SeleniumWebDriver.TestSendFolder - Clicking on Recipient Field
+2021-08-13 10:37:15,587 INFO  SeleniumWebDriver.TestSendFolder - Clicking on Send button
+2021-08-13 10:37:17,316 INFO  SeleniumWebDriver.TestSendFolder - Escaping the pop-up Window
+2021-08-13 10:37:18,534 INFO  SeleniumWebDriver.TestSendFolder - Clicking on Send folder
+2021-08-13 10:36:19,910 INFO  SeleniumWebDriver.TestSendFolder - Executing TestReport: C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\ReportUnit.exe

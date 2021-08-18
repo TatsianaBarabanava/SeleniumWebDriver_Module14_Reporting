@@ -1,0 +1,42 @@
+2021-08-12 17:32:07,972 DEBUG SeleniumWebDriver.TestDeleteFolder - Going to Yandex Home Page
+2021-08-12 17:32:08,330 INFO  SeleniumWebDriver.TestDeleteFolder - Clicking on Compose Link
+2021-08-12 17:32:08,477 INFO  SeleniumWebDriver.TestDeleteFolder - Switching to Mail Page Window
+2021-08-12 17:32:12,354 INFO  SeleniumWebDriver.TestDeleteFolder - Composing Email with Random Content
+2021-08-12 17:32:13,116 INFO  SeleniumWebDriver.TestDeleteFolder - Escaping the pop-up Window
+2021-08-12 17:32:13,172 INFO  SeleniumWebDriver.TestDeleteFolder - Clicking on Draft Link
+2021-08-12 17:32:13,807 INFO  SeleniumWebDriver.TestDeleteFolder - Selecting Email by Number
+2021-08-12 17:32:14,060 INFO  SeleniumWebDriver.TestDeleteFolder - Clicking on Delete button
+2021-08-12 17:32:14,294 INFO  SeleniumWebDriver.TestDeleteFolder - Compose Email with Random Content
+2021-08-12 17:32:15,223 ERROR SeleniumWebDriver.TestDeleteFolder - Test failed. Screenshot saved at: C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Screenshots\DeleteFolder_12.08.2021_17.32.15.jpeg
+2021-08-12 17:32:15,224 INFO  SeleniumWebDriver.TestDeleteFolder - Executing TestReport: C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\ReportUnit.exe
+2021-08-12 17:36:21,807 DEBUG SeleniumWebDriver.TestDeleteFolder - Going to Yandex Home Page
+2021-08-12 17:36:21,838 INFO  SeleniumWebDriver.TestDeleteFolder - Clicking on Compose Link
+2021-08-12 17:36:21,899 INFO  SeleniumWebDriver.TestDeleteFolder - Switching to Mail Page Window
+2021-08-12 17:36:24,854 INFO  SeleniumWebDriver.TestDeleteFolder - Composing Email with Random Content
+2021-08-12 17:36:25,669 INFO  SeleniumWebDriver.TestDeleteFolder - Escaping the pop-up Window
+2021-08-12 17:36:25,707 INFO  SeleniumWebDriver.TestDeleteFolder - Clicking on Draft Link
+2021-08-12 17:36:26,843 INFO  SeleniumWebDriver.TestDeleteFolder - Selecting Email by Number
+2021-08-12 17:36:27,089 INFO  SeleniumWebDriver.TestDeleteFolder - Clicking on Delete button
+2021-08-12 17:36:27,323 INFO  SeleniumWebDriver.TestDeleteFolder - Compose Email with Random Content
+2021-08-12 17:36:28,125 INFO  SeleniumWebDriver.TestDeleteFolder - Executing TestReport: C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\ReportUnit.exe
+2021-08-12 17:43:35,807 DEBUG SeleniumWebDriver.TestDeleteFolder - Going to Yandex Home Page
+2021-08-12 17:43:35,975 INFO  SeleniumWebDriver.TestDeleteFolder - Clicking on Compose Link
+2021-08-12 17:43:36,043 INFO  SeleniumWebDriver.TestDeleteFolder - Switching to Mail Page Window
+2021-08-12 17:43:38,656 INFO  SeleniumWebDriver.TestDeleteFolder - Composing Email with Random Content
+2021-08-12 17:43:39,431 INFO  SeleniumWebDriver.TestDeleteFolder - Escaping the pop-up Window
+2021-08-12 17:43:39,447 INFO  SeleniumWebDriver.TestDeleteFolder - Clicking on Draft Link
+2021-08-12 17:43:40,154 INFO  SeleniumWebDriver.TestDeleteFolder - Selecting Email by Number
+2021-08-12 17:43:40,417 INFO  SeleniumWebDriver.TestDeleteFolder - Clicking on Delete button
+2021-08-12 17:43:40,659 INFO  SeleniumWebDriver.TestDeleteFolder - Compose Email with Random Content
+2021-08-12 17:43:42,265 ERROR SeleniumWebDriver.TestDeleteFolder - Test failed. Screenshot saved at: C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Screenshots\DeleteFolder_12.08.2021_17.43.42.jpeg
+2021-08-12 17:43:42,265 INFO  SeleniumWebDriver.TestDeleteFolder - Executing TestReport: C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\ReportUnit.exe
+2021-08-12 17:46:09,440 DEBUG SeleniumWebDriver.TestDeleteFolder - Going to Yandex Home Page
+2021-08-12 17:46:09,470 INFO  SeleniumWebDriver.TestDeleteFolder - Clicking on Compose Link
+2021-08-12 17:46:10,059 INFO  SeleniumWebDriver.TestDeleteFolder - Switching to Mail Page Window
+2021-08-12 17:46:12,106 INFO  SeleniumWebDriver.TestDeleteFolder - Composing Email with Random Content
+2021-08-12 17:46:13,104 INFO  SeleniumWebDriver.TestDeleteFolder - Escaping the pop-up Window
+2021-08-12 17:46:13,153 INFO  SeleniumWebDriver.TestDeleteFolder - Clicking on Draft Link
+2021-08-12 17:46:13,842 INFO  SeleniumWebDriver.TestDeleteFolder - Selecting Email by Number
+2021-08-12 17:46:14,090 INFO  SeleniumWebDriver.TestDeleteFolder - Clicking on Delete button
+2021-08-12 17:46:14,320 INFO  SeleniumWebDriver.TestDeleteFolder - Compose Email with Random Content
+2021-08-12 17:46:17,091 INFO  SeleniumWebDriver.TestDeleteFolder - Executing TestReport: C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\ReportUnit.exe

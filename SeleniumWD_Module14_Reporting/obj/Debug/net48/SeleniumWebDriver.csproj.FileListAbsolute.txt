@@ -1,0 +1,315 @@
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net48\SeleniumWebDriver.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net48\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net48\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net48\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\nunit.engine.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\nunit.framework.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\WebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net48\SeleniumWebDriver.csproj.CopyComplete
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\obj\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver\bin\Debug\net48\WebDriver.Support.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\obj\Debug\net48\SeleniumWebDriver.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\obj\Debug\net48\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\obj\Debug\net48\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\obj\Debug\net48\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\obj\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\obj\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\nunit.engine.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\nunit.framework.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\WebDriver.Support.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\bin\Debug\net48\WebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy\obj\Debug\net48\SeleniumWebDriver.csproj.CopyComplete
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\nunit.engine.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\nunit.framework.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\WebDriver.Support.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\bin\Debug\net48\WebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\obj\Debug\net48\SeleniumWebDriver.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\obj\Debug\net48\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\obj\Debug\net48\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\obj\Debug\net48\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\obj\Debug\net48\SeleniumWebDriver.csproj.CopyComplete
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\obj\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver - Copy - Copy\obj\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\nunit.engine.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\SeleniumWebDriver.dll.config
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\nunit.framework.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\WebDriver.Support.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\WebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\System.Security.AccessControl.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\System.Security.Permissions.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\obj\Debug\net48\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\obj\Debug\net48\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\obj\Debug\net48\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\obj\Debug\net48\SeleniumWebDriver.csproj.CopyComplete
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\obj\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\obj\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD\obj\Debug\net48\SeleniumWebDriver.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\obj\Debug\net48\SeleniumWebDriver.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\obj\Debug\net48\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\obj\Debug\net48\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\obj\Debug\net48\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\obj\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\obj\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\bin\Debug\net48\nunit.engine.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\bin\Debug\net48\SeleniumWebDriver.dll.config
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\bin\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\bin\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\bin\Debug\net48\nunit.framework.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\bin\Debug\net48\WebDriver.Support.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\bin\Debug\net48\WebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\bin\Debug\net48\System.Security.AccessControl.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\bin\Debug\net48\System.Security.Permissions.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_GRID\obj\Debug\net48\SeleniumWebDriver.csproj.CopyComplete
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\nunit.engine.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\SeleniumWebDriver.dll.config
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\nunit.framework.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\WebDriver.Support.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\WebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\System.Security.AccessControl.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\System.Security.Permissions.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\obj\Debug\net48\SeleniumWebDriver.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\obj\Debug\net48\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\obj\Debug\net48\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\obj\Debug\net48\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\obj\Debug\net48\SeleniumWebDriver.csproj.CopyComplete
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\obj\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\obj\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\Cosmos.CRTCompat.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\Azure.Core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\Microsoft.Bcl.HashCode.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\System.Buffers.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\System.Collections.Immutable.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\System.Memory.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for9moduleNEW\bin\Debug\net48\System.ValueTuple.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\obj\Debug\net48\SeleniumWebDriver.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\obj\Debug\net48\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\obj\Debug\net48\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\obj\Debug\net48\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\obj\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\obj\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\Cosmos.CRTCompat.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\nunit.engine.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\SeleniumWebDriver.dll.config
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\Azure.Core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\Microsoft.Bcl.HashCode.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\nunit.framework.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\WebDriver.Support.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\WebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\System.Buffers.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\System.Collections.Immutable.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\System.Memory.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\System.Security.AccessControl.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\System.Security.Permissions.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\bin\Debug\net48\System.ValueTuple.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_for10module\obj\Debug\net48\SeleniumWebDriver.csproj.CopyComplete
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\Cosmos.CRTCompat.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\nunit.engine.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\SeleniumWebDriver.dll.config
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\Azure.Core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\Microsoft.Bcl.HashCode.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\nunit.framework.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\WebDriver.Support.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\WebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\System.Buffers.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\System.Collections.Immutable.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\System.Memory.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\System.Security.AccessControl.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\System.Security.Permissions.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\bin\Debug\net48\System.ValueTuple.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\obj\Debug\net48\SeleniumWebDriver.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\obj\Debug\net48\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\obj\Debug\net48\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\obj\Debug\net48\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\obj\Debug\net48\SeleniumWebDriver.csproj.CopyComplete
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\obj\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module10\obj\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\obj\Debug\net48\SeleniumWebDriver.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\obj\Debug\net48\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\obj\Debug\net48\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\obj\Debug\net48\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\obj\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\obj\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\Cosmos.CRTCompat.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\nunit.engine.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\SeleniumWebDriver.dll.config
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\Azure.Core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\Microsoft.Bcl.HashCode.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\nunit.framework.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\WebDriver.Support.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\WebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\System.Buffers.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\System.Collections.Immutable.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\System.Memory.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\System.Security.AccessControl.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\System.Security.Permissions.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\bin\Debug\net48\System.ValueTuple.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWebDriver_Module10\SeleniumWD_Module10\obj\Debug\net48\SeleniumWebDriver.csproj.CopyComplete
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Cosmos.CRTCompat.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\nunit.engine.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\nunit.engine.core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\testcentric.engine.metadata.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\SeleniumWebDriver.dll.config
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Azure.Core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\log4net.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Microsoft.Bcl.HashCode.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Newtonsoft.Json.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\nunit.framework.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\WebDriver.Support.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\WebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\System.Buffers.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\System.Collections.Immutable.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\System.Configuration.ConfigurationManager.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\System.Memory.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\System.Numerics.Vectors.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\System.Security.AccessControl.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\System.Security.Permissions.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\System.Security.Principal.Windows.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\System.Threading.Tasks.Extensions.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\System.ValueTuple.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\obj\Debug\net48\SeleniumWebDriver.AssemblyInfoInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\obj\Debug\net48\SeleniumWebDriver.AssemblyInfo.cs
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\obj\Debug\net48\SeleniumWebDriver.csproj.CoreCompileInputs.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\obj\Debug\net48\SeleniumWebDriver.csproj.CopyComplete
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\obj\Debug\net48\SeleniumWebDriver.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\obj\Debug\net48\SeleniumWebDriver.pdb
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Mono.Cecil.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Mono.Cecil.Mdb.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Mono.Cecil.Pdb.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\Mono.Cecil.Rocks.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\nunit.core.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\nunit.core.interfaces.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\nunit.util.dll
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\obj\Debug\net48\SeleniumWebDriver.csproj.AssemblyReference.cache
+C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\obj\Debug\net48\SeleniumWebDriver.GeneratedMSBuildEditorConfig.editorconfig

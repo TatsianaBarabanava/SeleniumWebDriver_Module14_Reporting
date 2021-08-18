@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="0" runstate="Runnable" testcasecount="6" result="Failed" total="6" passed="3" failed="3" inconclusive="0" skipped="0" asserts="9" engine-version="3.12.0.0" clr-version="4.0.30319.42000" start-time="2021-08-18 13:00:04Z" end-time="2021-08-18 13:06:34Z" duration="390.517718">
+  <command-line><![CDATA[nunit3-console  SeleniumWebDriver.dll]]></command-line>
+  <test-suite type="Assembly" id="1-1012" name="SeleniumWebDriver.dll" fullname="C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48\SeleniumWebDriver.dll" runstate="Runnable" testcasecount="6" result="Failed" site="Child" start-time="2021-08-18T13:00:04.4468893Z" end-time="2021-08-18T13:06:34.5137772Z" duration="390.066176" total="6" passed="3" failed="3" warnings="0" inconclusive="0" skipped="0" asserts="9">
+    <environment framework-version="3.13.2.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.18363.0" platform="Win32NT" cwd="C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48" machine-name="EPBYMINW0A48" user="Tatsiana_Barabanava" user-domain="MINSK" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\bin\Debug\net48" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.8" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="TargetRuntimeFramework" value="net-4.0" />
+      <setting name="NumberOfTestWorkers" value="8" />
+    </settings>
+    <properties>
+      <property name="_PID" value="17532" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="1-1013" name="SeleniumWebDriver" fullname="SeleniumWebDriver" runstate="Runnable" testcasecount="6" result="Failed" site="Child" start-time="2021-08-18T13:00:04.4608268Z" end-time="2021-08-18T13:06:34.5137772Z" duration="390.053110" total="6" passed="3" failed="3" warnings="0" inconclusive="0" skipped="0" asserts="9">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestFixture" id="1-1000" name="TestDeleteFolder" fullname="SeleniumWebDriver.TestDeleteFolder" classname="SeleniumWebDriver.TestDeleteFolder" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2021-08-18T13:00:04.4628464Z" end-time="2021-08-18T13:01:05.3670314Z" duration="60.903682" total="1" passed="0" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="2">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-case id="1-1001" name="DeleteFolder" fullname="SeleniumWebDriver.TestDeleteFolder.DeleteFolder" methodname="DeleteFolder" classname="SeleniumWebDriver.TestDeleteFolder" runstate="Runnable" seed="171784215" result="Failed" start-time="2021-08-18T13:00:09.1422440Z" end-time="2021-08-18T13:01:05.2968510Z" duration="56.155626" asserts="2">
+          <failure>
+            <message><![CDATA[  Email Subject field has an invalid value
+  String lengths are both 5. Strings differ at index 0.
+  Expected: "J2P1J"
+  But was:  "IY0MC"
+  -----------^
+]]></message>
+            <stack-trace><![CDATA[   at SeleniumWebDriver.TestDeleteFolder.DeleteFolder() in C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\Tests\TestDeleteFolder.cs:line 46
+]]></stack-trace>
+          </failure>
+          <assertions>
+            <assertion result="Failed">
+              <message><![CDATA[  Email Subject field has an invalid value
+  String lengths are both 5. Strings differ at index 0.
+  Expected: "J2P1J"
+  But was:  "IY0MC"
+  -----------^
+]]></message>
+              <stack-trace><![CDATA[   at SeleniumWebDriver.TestDeleteFolder.DeleteFolder() in C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\Tests\TestDeleteFolder.cs:line 46
+]]></stack-trace>
+            </assertion>
+          </assertions>
+        </test-case>
+      </test-suite>
+      <test-suite type="TestFixture" id="1-1002" name="TestDraftFolder" fullname="SeleniumWebDriver.TestDraftFolder" classname="SeleniumWebDriver.TestDraftFolder" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2021-08-18T13:01:05.3690466Z" end-time="2021-08-18T13:02:06.0990906Z" duration="60.729802" total="1" passed="0" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="2">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-case id="1-1003" name="DraftContent" fullname="SeleniumWebDriver.TestDraftFolder.DraftContent" methodname="DraftContent" classname="SeleniumWebDriver.TestDraftFolder" runstate="Runnable" seed="822982980" result="Failed" start-time="2021-08-18T13:01:09.5164144Z" end-time="2021-08-18T13:02:06.0533021Z" duration="56.536698" asserts="2">
+          <failure>
+            <message><![CDATA[  Email Subject field has an invalid value
+  String lengths are both 5. Strings differ at index 1.
+  Expected: "JMSTY"
+  But was:  "J2P1J"
+  ------------^
+]]></message>
+            <stack-trace><![CDATA[   at SeleniumWebDriver.TestDraftFolder.DraftContent() in C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\Tests\TestDraftFolder.cs:line 40
+]]></stack-trace>
+          </failure>
+          <assertions>
+            <assertion result="Failed">
+              <message><![CDATA[  Email Subject field has an invalid value
+  String lengths are both 5. Strings differ at index 1.
+  Expected: "JMSTY"
+  But was:  "J2P1J"
+  ------------^
+]]></message>
+              <stack-trace><![CDATA[   at SeleniumWebDriver.TestDraftFolder.DraftContent() in C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\Tests\TestDraftFolder.cs:line 40
+]]></stack-trace>
+            </assertion>
+          </assertions>
+        </test-case>
+      </test-suite>
+      <test-suite type="TestFixture" id="1-1004" name="TestLogin" fullname="SeleniumWebDriver.TestLogin" classname="SeleniumWebDriver.TestLogin" runstate="Runnable" testcasecount="1" result="Passed" start-time="2021-08-18T13:02:06.0990906Z" end-time="2021-08-18T13:03:04.4629745Z" duration="58.364270" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+        <test-case id="1-1005" name="Login" fullname="SeleniumWebDriver.TestLogin.Login" methodname="Login" classname="SeleniumWebDriver.TestLogin" runstate="Runnable" seed="1404962873" result="Passed" start-time="2021-08-18T13:02:10.2664194Z" end-time="2021-08-18T13:03:04.4211894Z" duration="54.155342" asserts="1" />
+      </test-suite>
+      <test-suite type="TestFixture" id="1-1006" name="TestReceiveFolder" fullname="SeleniumWebDriver.TestReceiveFolder" classname="SeleniumWebDriver.TestReceiveFolder" runstate="Runnable" testcasecount="1" result="Passed" start-time="2021-08-18T13:03:04.4629745Z" end-time="2021-08-18T13:04:08.1344211Z" duration="63.671511" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="3">
+        <test-case id="1-1007" name="ReceiveFolder" fullname="SeleniumWebDriver.TestReceiveFolder.ReceiveFolder" methodname="ReceiveFolder" classname="SeleniumWebDriver.TestReceiveFolder" runstate="Runnable" seed="1028991314" result="Passed" start-time="2021-08-18T13:03:08.6165196Z" end-time="2021-08-18T13:04:08.0887121Z" duration="59.472145" asserts="3" />
+      </test-suite>
+      <test-suite type="TestFixture" id="1-1008" name="TestSendEmail" fullname="SeleniumWebDriver.TestSendEmail" classname="SeleniumWebDriver.TestSendEmail" runstate="Runnable" testcasecount="1" result="Passed" start-time="2021-08-18T13:04:08.1344211Z" end-time="2021-08-18T13:05:24.0957195Z" duration="75.960728" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+        <test-case id="1-1009" name="SendEmail" fullname="SeleniumWebDriver.TestSendEmail.SendEmail" methodname="SendEmail" classname="SeleniumWebDriver.TestSendEmail" runstate="Runnable" seed="1741212940" result="Passed" start-time="2021-08-18T13:04:12.2923821Z" end-time="2021-08-18T13:05:24.0718742Z" duration="71.779874" asserts="1" />
+      </test-suite>
+      <test-suite type="TestFixture" id="1-1010" name="TestSendFolder" fullname="SeleniumWebDriver.TestSendFolder" classname="SeleniumWebDriver.TestSendFolder" runstate="Runnable" testcasecount="1" result="Failed" site="Child" start-time="2021-08-18T13:05:24.0957195Z" end-time="2021-08-18T13:06:34.5137772Z" duration="70.418593" total="1" passed="0" failed="1" warnings="0" inconclusive="0" skipped="0" asserts="0">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-case id="1-1011" name="SendFolder" fullname="SeleniumWebDriver.TestSendFolder.SendFolder" methodname="SendFolder" classname="SeleniumWebDriver.TestSendFolder" runstate="Runnable" seed="695747988" result="Failed" label="Error" start-time="2021-08-18T13:05:28.7463692Z" end-time="2021-08-18T13:06:34.4921863Z" duration="65.745246" asserts="0">
+          <failure>
+            <message><![CDATA[OpenQA.Selenium.WebDriverTimeoutException : Timed out after 60 seconds
+  ----> OpenQA.Selenium.NoSuchElementException : Unable to locate element: //a[contains(@href, 'disk')]]]></message>
+            <stack-trace><![CDATA[   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at SeleniumWebDriver.BaseElement.WaitForIsVisible() in C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\Pages\BaseElement.cs:line 55
+   at SeleniumWebDriver.BasePage.WaitIsOpen() in C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\Pages\BasePage.cs:line 21
+   at SeleniumWebDriver.BasePage..ctor(By TitleLocator, String Title) in C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\Pages\BasePage.cs:line 15
+   at SeleniumWebDriver.BaseMailPage..ctor(By TitleLocator, String Title) in C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\Pages\BaseMailPage..cs:line 22
+   at SeleniumWebDriver.YandexHomePage..ctor() in C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\Pages\YandexHomePage.cs:line 13
+   at SeleniumWebDriver.YandexLoginPage.Login(User user) in C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\Pages\YandexLoginPage.cs:line 41
+   at SeleniumWebDriver.BaseTest.TestSetup() in C:\Users\Tatsiana_Barabanava\source\repos\SeleniumWD_Module14_Reporting\Tests\BaseTest.cs:line 48
+--NoSuchElementException
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Support.UI.ExpectedConditions.<>c__DisplayClass7_0.<ElementIsVisible>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)]]></stack-trace>
+          </failure>
+        </test-case>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

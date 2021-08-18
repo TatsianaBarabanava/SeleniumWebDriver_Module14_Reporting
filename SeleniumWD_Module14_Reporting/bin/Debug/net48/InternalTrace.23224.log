@@ -1,0 +1,53 @@
+InternalTrace: Initializing at level Info
+15:24:09.640 Info  [ 1] ServiceManager: Initializing SettingsService
+15:24:09.643 Info  [ 1] ServiceManager: Initializing RecentFilesService
+15:24:09.645 Info  [ 1] ServiceManager: Initializing TestFilterService
+15:24:09.645 Info  [ 1] ServiceManager: Initializing ExtensionService
+15:24:09.648 Info  [ 1] ExtensionService: Scanning nunit.engine.core assembly for extension points
+15:24:09.648 Info  [ 1] ExtensionService:   Found Path=/NUnit/Engine/NUnitV2Driver, Type=NUnit.Engine.Extensibility.IFrameworkDriver
+15:24:09.655 Info  [ 1] ExtensionService: Scanning nunit.engine.api assembly for extension points
+15:24:09.657 Info  [ 1] ExtensionService:   Found Path=/NUnit/Engine/TypeExtensions/IService, Type=NUnit.Engine.IService
+15:24:09.657 Info  [ 1] ExtensionService:   Found Path=/NUnit/Engine/TypeExtensions/ITestEventListener, Type=NUnit.Engine.ITestEventListener
+15:24:09.657 Info  [ 1] ExtensionService:   Found Path=/NUnit/Engine/TypeExtensions/IDriverFactory, Type=NUnit.Engine.Extensibility.IDriverFactory
+15:24:09.657 Info  [ 1] ExtensionService:   Found Path=/NUnit/Engine/TypeExtensions/IProjectLoader, Type=NUnit.Engine.Extensibility.IProjectLoader
+15:24:09.657 Info  [ 1] ExtensionService:   Found Path=/NUnit/Engine/TypeExtensions/IResultWriter, Type=NUnit.Engine.Extensibility.IResultWriter
+15:24:09.659 Info  [ 1] ExtensionService: Processing file C:\Program Files (x86)\NUnit.org\nunit-console\nunit.bundle.addins
+15:24:09.743 Info  [ 1] ExtensionService: Scanning C:\Program Files (x86)\NUnit.org\nunit-console\addins\nunit.v2.driver.dll for Extensions
+15:24:09.753 Info  [ 1] ExtensionService:   Found ExtensionAttribute on Type NUnit2FrameworkDriver
+15:24:09.759 Info  [ 1] ExtensionService: Scanning C:\Program Files (x86)\NUnit.org\nunit-console\addins\nunit-v2-result-writer.dll for Extensions
+15:24:09.759 Info  [ 1] ExtensionService:   Found ExtensionAttribute on Type NUnit2XmlResultWriter
+15:24:09.761 Info  [ 1] ExtensionService:         ExtensionProperty Format = nunit2
+15:24:09.761 Info  [ 1] ExtensionService: Scanning C:\Program Files (x86)\NUnit.org\nunit-console\addins\nunit-project-loader.dll for Extensions
+15:24:09.761 Info  [ 1] ExtensionService:   Found ExtensionAttribute on Type NUnitProjectLoader
+15:24:09.761 Info  [ 1] ExtensionService:         ExtensionProperty FileExtension = .nunit
+15:24:09.761 Info  [ 1] ExtensionService: Scanning C:\Program Files (x86)\NUnit.org\nunit-console\addins\vs-project-loader.dll for Extensions
+15:24:09.763 Info  [ 1] ExtensionService:   Found ExtensionAttribute on Type VisualStudioProjectLoader
+15:24:09.763 Info  [ 1] ExtensionService:         ExtensionProperty FileExtension = .sln
+15:24:09.763 Info  [ 1] ExtensionService:         ExtensionProperty FileExtension = .csproj
+15:24:09.763 Info  [ 1] ExtensionService:         ExtensionProperty FileExtension = .vbproj
+15:24:09.763 Info  [ 1] ExtensionService:         ExtensionProperty FileExtension = .vjsproj
+15:24:09.763 Info  [ 1] ExtensionService:         ExtensionProperty FileExtension = .vcproj
+15:24:09.763 Info  [ 1] ExtensionService:         ExtensionProperty FileExtension = .fsproj
+15:24:09.763 Info  [ 1] ExtensionService: Scanning C:\Program Files (x86)\NUnit.org\nunit-console\addins\teamcity-event-listener.dll for Extensions
+15:24:09.766 Info  [ 1] ExtensionService:   Found ExtensionAttribute on Type TeamCityEventListener
+15:24:09.766 Info  [ 1] ServiceManager: Initializing ProjectService
+15:24:09.768 Info  [ 1] ServiceManager: Initializing DomainManager
+15:24:09.768 Info  [ 1] ServiceManager: Initializing RuntimeFrameworkService
+15:24:09.768 Info  [ 1] ServiceManager: Initializing TestAgency
+15:24:09.780 Info  [ 1] ServiceManager: Initializing DriverService
+15:24:09.782 Info  [ 1] ServiceManager: Initializing ResultService
+15:24:09.782 Info  [ 1] ServiceManager: Initializing DefaultTestRunnerFactory
+15:24:09.827 Info  [ 1] ProcessRunner: Running 
+15:25:15.713 Info  [ 1] ProcessRunner: Done running 
+15:25:15.720 Info  [ 1] ProcessRunner: Unloading 
+15:25:15.769 Info  [ 1] ServiceManager: Stopping DefaultTestRunnerFactory
+15:25:15.770 Info  [ 1] ServiceManager: Stopping ResultService
+15:25:15.770 Info  [ 1] ServiceManager: Stopping DriverService
+15:25:15.770 Info  [ 1] ServiceManager: Stopping TestAgency
+15:25:15.770 Info  [ 1] ServiceManager: Stopping RuntimeFrameworkService
+15:25:15.770 Info  [ 1] ServiceManager: Stopping DomainManager
+15:25:15.770 Info  [ 1] ServiceManager: Stopping ProjectService
+15:25:15.770 Info  [ 1] ServiceManager: Stopping ExtensionService
+15:25:15.770 Info  [ 1] ServiceManager: Stopping TestFilterService
+15:25:15.770 Info  [ 1] ServiceManager: Stopping RecentFilesService
+15:25:15.772 Info  [ 1] ServiceManager: Stopping SettingsService

@@ -1,0 +1,49 @@
+InternalTrace: Initializing at level Info
+15:29:08.025 Info  [ 1] NUnitTestAgent: Agent process 21724 starting
+15:29:08.030 Info  [ 1] NUnitTestAgent: Running under version 4.0.30319.42000, .NET 4.5
+15:29:08.032 Info  [ 1] NUnitTestAgent: Initializing Services
+15:29:08.033 Info  [ 1] ServiceManager: Initializing ExtensionService
+15:29:08.036 Info  [ 1] ExtensionService: Scanning nunit.engine.core assembly for extension points
+15:29:08.036 Info  [ 1] ExtensionService:   Found Path=/NUnit/Engine/NUnitV2Driver, Type=NUnit.Engine.Extensibility.IFrameworkDriver
+15:29:08.044 Info  [ 1] ExtensionService: Scanning nunit.engine.api assembly for extension points
+15:29:08.044 Info  [ 1] ExtensionService:   Found Path=/NUnit/Engine/TypeExtensions/IService, Type=NUnit.Engine.IService
+15:29:08.044 Info  [ 1] ExtensionService:   Found Path=/NUnit/Engine/TypeExtensions/ITestEventListener, Type=NUnit.Engine.ITestEventListener
+15:29:08.044 Info  [ 1] ExtensionService:   Found Path=/NUnit/Engine/TypeExtensions/IDriverFactory, Type=NUnit.Engine.Extensibility.IDriverFactory
+15:29:08.044 Info  [ 1] ExtensionService:   Found Path=/NUnit/Engine/TypeExtensions/IProjectLoader, Type=NUnit.Engine.Extensibility.IProjectLoader
+15:29:08.044 Info  [ 1] ExtensionService:   Found Path=/NUnit/Engine/TypeExtensions/IResultWriter, Type=NUnit.Engine.Extensibility.IResultWriter
+15:29:08.046 Info  [ 1] ExtensionService: Processing file C:\Program Files (x86)\NUnit.org\nunit-console\agents\net40\nunit.agent.addins
+15:29:08.048 Info  [ 1] ExtensionService: Scanning directory C:\Program Files (x86)\NUnit.org\nunit-console for extensions
+15:29:08.048 Info  [ 1] ExtensionService: Processing file C:\Program Files (x86)\NUnit.org\nunit-console\nunit.bundle.addins
+15:29:08.133 Info  [ 1] ExtensionService: Scanning C:\Program Files (x86)\NUnit.org\nunit-console\addins\nunit.v2.driver.dll for Extensions
+15:29:08.140 Info  [ 1] ExtensionService:   Found ExtensionAttribute on Type NUnit2FrameworkDriver
+15:29:08.145 Info  [ 1] ExtensionService: Scanning C:\Program Files (x86)\NUnit.org\nunit-console\addins\nunit-v2-result-writer.dll for Extensions
+15:29:08.146 Info  [ 1] ExtensionService:   Found ExtensionAttribute on Type NUnit2XmlResultWriter
+15:29:08.146 Info  [ 1] ExtensionService:         ExtensionProperty Format = nunit2
+15:29:08.146 Info  [ 1] ExtensionService: Scanning C:\Program Files (x86)\NUnit.org\nunit-console\addins\nunit-project-loader.dll for Extensions
+15:29:08.148 Info  [ 1] ExtensionService:   Found ExtensionAttribute on Type NUnitProjectLoader
+15:29:08.148 Info  [ 1] ExtensionService:         ExtensionProperty FileExtension = .nunit
+15:29:08.148 Info  [ 1] ExtensionService: Scanning C:\Program Files (x86)\NUnit.org\nunit-console\addins\vs-project-loader.dll for Extensions
+15:29:08.149 Info  [ 1] ExtensionService:   Found ExtensionAttribute on Type VisualStudioProjectLoader
+15:29:08.149 Info  [ 1] ExtensionService:         ExtensionProperty FileExtension = .sln
+15:29:08.149 Info  [ 1] ExtensionService:         ExtensionProperty FileExtension = .csproj
+15:29:08.149 Info  [ 1] ExtensionService:         ExtensionProperty FileExtension = .vbproj
+15:29:08.149 Info  [ 1] ExtensionService:         ExtensionProperty FileExtension = .vjsproj
+15:29:08.149 Info  [ 1] ExtensionService:         ExtensionProperty FileExtension = .vcproj
+15:29:08.149 Info  [ 1] ExtensionService:         ExtensionProperty FileExtension = .fsproj
+15:29:08.149 Info  [ 1] ExtensionService: Scanning C:\Program Files (x86)\NUnit.org\nunit-console\addins\teamcity-event-listener.dll for Extensions
+15:29:08.150 Info  [ 1] ExtensionService:   Found ExtensionAttribute on Type TeamCityEventListener
+15:29:08.150 Info  [ 1] ServiceManager: Initializing DomainManager
+15:29:08.150 Info  [ 1] ServiceManager: Initializing InProcessTestRunnerFactory
+15:29:08.150 Info  [ 1] ServiceManager: Initializing DriverService
+15:29:08.155 Info  [ 1] NUnitTestAgent: Starting RemoteTestAgent
+15:29:08.157 Info  [ 1] RemoteTestAgent: Agent starting
+15:29:08.167 Info  [ 1] RemoteTestAgent: Connecting to TestAgency at tcp://127.0.0.1:54864/TestAgency
+15:29:08.381 Info  [ 6] DomainManager: Creating application domain domain-
+15:29:08.405 Info  [ 6] NUnitFrameworkDriver: Loading SeleniumWebDriver.dll - see separate log file
+15:29:08.503 Info  [ 6] NUnitFrameworkDriver: Loaded SeleniumWebDriver.dll
+15:29:08.503 Info  [ 6] NUnitFrameworkDriver: Running SeleniumWebDriver.dll - see separate log file
+15:29:39.741 Info  [ 6] RemoteTestAgent: Stopping
+15:29:39.742 Info  [12] RemoteTestAgent: Waiting for messages to complete
+15:29:39.742 Info  [12] RemoteTestAgent: Attempting shut down channel
+15:29:39.742 Info  [12] RemoteTestAgent: Set stop signal
+15:29:39.742 Info  [ 1] NUnitTestAgent: Agent process 21724 exiting cleanly

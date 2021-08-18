@@ -1,0 +1,18 @@
+InternalTrace: Initializing at level Info
+15:29:08.543 Info  [ 6] DefaultTestAssemblyRunner: Running tests
+15:29:08.547 Info  [ 6] Dispatcher: Initializing with 8 workers
+15:29:08.558 Info  [ 6] WorkShift: NonParallel shift starting
+15:29:08.559 Info  [ 6] TestWorker: NonParallelWorker starting on thread [9]
+15:29:08.560 Info  [ 6] WorkItemQueue: NonParallelQueue.0 starting
+15:29:08.560 Info  [ 9] TestWorker: NonParallelWorker executing SeleniumWebDriver.dll
+15:29:08.578 Info  [ 9] TestWorker: NonParallelWorker executing TestDeleteFolder
+15:29:08.588 Info  [ 9] Dispatcher: Saving Queue State for TestDeleteFolder
+15:29:08.594 Info  [ 9] WorkItemQueue: NonParallelQueue.1 starting
+15:29:39.705 Info  [ 9] TestWorker: NonParallelWorker executing TestDeleteFolder OneTimeTearDown
+15:29:39.715 Info  [ 9] WorkShift: NonParallel shift ending
+15:29:39.716 Info  [ 9] Dispatcher: Restoring Queue State
+15:29:39.717 Info  [ 9] WorkItemQueue: ParallelQueue.0 stopping - 0 WorkItems processed
+15:29:39.717 Info  [ 9] WorkItemQueue: ParallelSTAQueue.0 stopping - 0 WorkItems processed
+15:29:39.717 Info  [ 9] WorkItemQueue: NonParallelQueue.0 stopping - 3 WorkItems processed
+15:29:39.717 Info  [ 9] WorkItemQueue: NonParallelSTAQueue.0 stopping - 0 WorkItems processed
+15:29:39.717 Info  [ 9] TestWorker: NonParallelWorker stopping - 3 WorkItems processed.
